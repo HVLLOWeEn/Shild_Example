@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ed680b4-a5f4-4cbf-9c8c-2f45bd1b8992" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/AutoBox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/AutoBox2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/AutoBox3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/DemoAnnot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/EnumDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/EnumDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/EnumDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/EnumDemo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/NumberFormatExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/QuadraticWithStaticImport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/Quardratic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/TraficLightColor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/TraficLightDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/TraficLightSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/Transport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example12_enum_annotation/Wrap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/BoundsDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/Containment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/FlightSched.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/Gen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/GenConsDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/GenDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/GenIfDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/GenericMethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/NumericFns.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/NumericFnsTemplateArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/Pair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/PairDEMO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/RawDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/SimpleGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/Summation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/TwoGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example13_generalizations/WildcardDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/ArrayLambdaDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/BlockLambdaDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/ConstructorRefDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/Example.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/GenericFunctionlInterfaceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/IntPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/LambdaExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyClass2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyClassArrayCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyFuncString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyIOAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyIntNum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyIntNumPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyIntPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyParamThreeValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyParamValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyTransform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/MyValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/NumericFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/NumericTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/SomeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/StringTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/UsePredicateInteraface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example14_lambda_expression/VarCapture.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/example8_packeges_and_interfaces/Test.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextHomeWorkFile1.txt" afterPath="$PROJECT_DIR$/TextHomeWorkFile1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextHomeWorkFile2.txt" afterPath="$PROJECT_DIR$/TextHomeWorkFile2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Demo.java" afterPath="$PROJECT_DIR$/src/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/AvgNums.java" afterPath="$PROJECT_DIR$/src/example10_io/AvgNums.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/CompFiles.java" afterPath="$PROJECT_DIR$/src/example10_io/CompFiles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/CopyFile.java" afterPath="$PROJECT_DIR$/src/example10_io/CopyFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/DtoS.java" afterPath="$PROJECT_DIR$/src/example10_io/DtoS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/FIRST.txt" afterPath="$PROJECT_DIR$/src/example10_io/FIRST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/HomeWorkByteStream.java" afterPath="$PROJECT_DIR$/src/example10_io/HomeWorkByteStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/HomeWorkCharsStream.java" afterPath="$PROJECT_DIR$/src/example10_io/HomeWorkCharsStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/KtoD.java" afterPath="$PROJECT_DIR$/src/example10_io/KtoD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/PrintWriteDemo.java" afterPath="$PROJECT_DIR$/src/example10_io/PrintWriteDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/RWData.java" afterPath="$PROJECT_DIR$/src/example10_io/RWData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/RandomAccessDemo.java" afterPath="$PROJECT_DIR$/src/example10_io/RandomAccessDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/RandomAccessDemoInteger.java" afterPath="$PROJECT_DIR$/src/example10_io/RandomAccessDemoInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ReCopyFile.java" afterPath="$PROJECT_DIR$/src/example10_io/ReCopyFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ReShowFile.java" afterPath="$PROJECT_DIR$/src/example10_io/ReShowFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ReadBytes.java" afterPath="$PROJECT_DIR$/src/example10_io/ReadBytes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ReadChars.java" afterPath="$PROJECT_DIR$/src/example10_io/ReadChars.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ReadLines.java" afterPath="$PROJECT_DIR$/src/example10_io/ReadLines.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ScannerDemo.java" afterPath="$PROJECT_DIR$/src/example10_io/ScannerDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/ShowFile.java" afterPath="$PROJECT_DIR$/src/example10_io/ShowFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/TEXT.txt" afterPath="$PROJECT_DIR$/src/example10_io/TEXT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/TWO.txt" afterPath="$PROJECT_DIR$/src/example10_io/TWO.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example10_io/WriteDemo.java" afterPath="$PROJECT_DIR$/src/example10_io/WriteDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/ExtendThread.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/ExtendThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/FirstExampleHW.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/FirstExampleHW.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/JoinThreads.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/JoinThreads.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MoreThreads.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MoreThreads.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThrd_HW.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThrd_HW.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThread.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThreadManyStream.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThreadManyStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThreadMonitor.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThreadMonitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThreadNew.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThreadNew.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThreadStoppedAndSuspended.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThreadStoppedAndSuspended.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/MyThreadTickTock.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/MyThreadTickTock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/Priority.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/Priority.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/PriorityDemo.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/PriorityDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/SumArray.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/SumArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/Suspend.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/Suspend.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/Sync.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/Sync.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/ThreadCom.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/ThreadCom.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/TickTock.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/TickTock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/UseMain.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/UseMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/UseThreads.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/UseThreads.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example11_multithreading/UseThreadsImproved.java" afterPath="$PROJECT_DIR$/src/example11_multithreading/UseThreadsImproved.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example6_additionaly_for_classes/CharRecursion.java" afterPath="$PROJECT_DIR$/src/example6_additionaly_for_classes/CharRecursion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example6_additionaly_for_classes/Stack.java" afterPath="$PROJECT_DIR$/src/example6_additionaly_for_classes/Stack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example6_additionaly_for_classes/VarArgs.java" afterPath="$PROJECT_DIR$/src/example6_additionaly_for_classes/VarArgs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example6_additionaly_for_classes/VarArgsSum.java" afterPath="$PROJECT_DIR$/src/example6_additionaly_for_classes/VarArgsSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/A.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/A.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/A1.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/A1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/A2.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/A2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/A3.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/A3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Alpha.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Alpha.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/ErrorMsg.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/ErrorMsg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/IVehicle.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/IVehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Shapes.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Shapes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Shapes1.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Shapes1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Shapes2.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Shapes2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Shapes3.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Shapes3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Shapes4.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Shapes4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Shapes5.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Shapes5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Sup.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Sup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/TrackDemo.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/TrackDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/TwoDShape.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/TwoDShape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/Vehicle.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/Vehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example7_inheritance/X.java" afterPath="$PROJECT_DIR$/src/example7_inheritance/X.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Alpha.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Alpha.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Beta.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Beta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/ByTwos.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/ByTwos.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/ByteTrees.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/ByteTrees.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/ICharQ.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/ICharQ.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/MyIF.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/MyIF.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/MyIFImp.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/MyIFImp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Series.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Series.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/SeriesDemo.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/SeriesDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/SeriesDemo2.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/SeriesDemo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Test.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/TestInterface.java" afterPath="$PROJECT_DIR$/src/example8_pakages_and_interfaces/TestInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/DemoA.java" afterPath="$PROJECT_DIR$/src/example9_Exception/DemoA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/ExcDemo1.java" afterPath="$PROJECT_DIR$/src/example9_Exception/ExcDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/ExcDemo3.java" afterPath="$PROJECT_DIR$/src/example9_Exception/ExcDemo3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/ExcDemo4.java" afterPath="$PROJECT_DIR$/src/example9_Exception/ExcDemo4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/ExcDemo5.java" afterPath="$PROJECT_DIR$/src/example9_Exception/ExcDemo5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/ExcTest.java" afterPath="$PROJECT_DIR$/src/example9_Exception/ExcTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/IStackInt.java" afterPath="$PROJECT_DIR$/src/example9_Exception/IStackInt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/MultiCatch.java" afterPath="$PROJECT_DIR$/src/example9_Exception/MultiCatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/NonIntResultException.java" afterPath="$PROJECT_DIR$/src/example9_Exception/NonIntResultException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/QExcDemo.java" afterPath="$PROJECT_DIR$/src/example9_Exception/QExcDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/QueueEmptyException.java" afterPath="$PROJECT_DIR$/src/example9_Exception/QueueEmptyException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/QueueFullException.java" afterPath="$PROJECT_DIR$/src/example9_Exception/QueueFullException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/Rethrow.java" afterPath="$PROJECT_DIR$/src/example9_Exception/Rethrow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/StackDemo.java" afterPath="$PROJECT_DIR$/src/example9_Exception/StackDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/StackEmptyException.java" afterPath="$PROJECT_DIR$/src/example9_Exception/StackEmptyException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/StackFullException.java" afterPath="$PROJECT_DIR$/src/example9_Exception/StackFullException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/StackRelise.java" afterPath="$PROJECT_DIR$/src/example9_Exception/StackRelise.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/ThrowDemo.java" afterPath="$PROJECT_DIR$/src/example9_Exception/ThrowDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/UseFinally.java" afterPath="$PROJECT_DIR$/src/example9_Exception/UseFinally.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example9_Exception/UseTrowableMethod.java" afterPath="$PROJECT_DIR$/src/example9_Exception/UseTrowableMethod.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Shild_Example$ThreadCom.coverage" NAME="ThreadCom Coverage Results" MODIFIED="1497173438645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example11_multithreading.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Shild_Example" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RandomAccessDemoInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example10_io/RandomAccessDemoInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehclie.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/example4_class_method_etc/Vehclie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.println(&quot;'xyz' не найдено!&quot;);</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/example7_inheritance</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/example13_generalizations/WildcardDemo.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/GenericMethodDemo.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/Summation.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/GenConsDemo.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/GenIfDemo.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/Containment.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/RawDemo.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/SimpleGen.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/TwoGen.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/BoundsDemo.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/NumericFnsTemplateArgument.java" />
+        <option value="$PROJECT_DIR$/src/example13_generalizations/FlightSched.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/LambdaExample.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyParamValue.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyValue.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/Example.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyParamThreeValue.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo3.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/BlockLambdaDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/SomeTest.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/SomeTestTwoGen.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/GenericFunctionlInterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/NumericTest.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo2.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/NumericFunc.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/LambdaArgumentDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyFunc.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/VarCapture.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyIOAction.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/LambdaExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyTransform.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/ArrayLambdaDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/IntPredicate.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyIntPredicates.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo2.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyIntNum.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/myIntNumPredicate.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyIntNumPredicate.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo3.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyFuncString.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyClass2.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/ConstructorRefDemo.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/MyClassArrayCreator.java" />
+        <option value="$PROJECT_DIR$/src/example14_lambda_expression/UsePredicateInteraface.java" />
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/example10_io/RandomAccessDemoInteger.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1366" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Shild_Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild_Example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild_Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild_Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild_Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild_Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example4_class_method_etc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild_Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild_Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example4_class_method_etc" type="462c0819:PsiDirectoryNode" />
+              <item name="Vehclie.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Two&#9;PSI&#9;JAVA://example5_additionaly_for_types.TwoDemo&#10;Fixed&#9;PSI&#9;JAVA://example8_pakages_and_interfaces.FixedQueue&#10;isSq&#9;PSI&#9;JAVA://example7_inheritance.Rectangle#isSquare" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="example_forSharaha" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="ConstructorRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="example14_lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="example14_lambda_expression.ConstructorRefDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shild_Example" />
+      <envs />
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="9.0" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shild_Example" />
+      <envs />
+    </configuration>
+    <configuration name="MethodRefDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="example14_lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="example14_lambda_expression.MethodRefDemo2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shild_Example" />
+      <envs />
+    </configuration>
+    <configuration name="MethodRefDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="example14_lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="example14_lambda_expression.MethodRefDemo3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shild_Example" />
+      <envs />
+    </configuration>
+    <configuration name="UsePredicateInteraface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="example14_lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="example14_lambda_expression.UsePredicateInteraface" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shild_Example" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shild_Example" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.MethodRefDemo2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MethodRefDemo3" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConstructorRefDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UsePredicateInteraface" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UsePredicateInteraface" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConstructorRefDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MethodRefDemo3" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MethodRefDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed680b4-a5f4-4cbf-9c8c-2f45bd1b8992" name="Default" comment="" />
+      <created>1487752671160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487752671160</updated>
+      <workItem from="1491762980937" duration="1726000" />
+      <workItem from="1491776432025" duration="175000" />
+      <workItem from="1491820991498" duration="465000" />
+      <workItem from="1491823949164" duration="1038000" />
+      <workItem from="1491825757379" duration="448000" />
+      <workItem from="1491828527362" duration="4628000" />
+      <workItem from="1491840162731" duration="2461000" />
+      <workItem from="1491844758450" duration="4317000" />
+      <workItem from="1491871899836" duration="428000" />
+      <workItem from="1491909263579" duration="967000" />
+      <workItem from="1491910680370" duration="382000" />
+      <workItem from="1491912586216" duration="1455000" />
+      <workItem from="1491916457715" duration="399000" />
+      <workItem from="1491924400481" duration="1674000" />
+      <workItem from="1491932737990" duration="913000" />
+      <workItem from="1491936000599" duration="837000" />
+      <workItem from="1491937015386" duration="833000" />
+      <workItem from="1491939064445" duration="6310000" />
+      <workItem from="1491993064103" duration="327000" />
+      <workItem from="1491994252235" duration="191000" />
+      <workItem from="1491996436193" duration="898000" />
+      <workItem from="1492012594932" duration="440000" />
+      <workItem from="1492067830129" duration="73000" />
+      <workItem from="1492074893965" duration="833000" />
+      <workItem from="1492076466573" duration="3293000" />
+      <workItem from="1492089026968" duration="134000" />
+      <workItem from="1492105973399" duration="6207000" />
+      <workItem from="1492114595489" duration="278000" />
+      <workItem from="1492118437393" duration="6529000" />
+      <workItem from="1492126772026" duration="78000" />
+      <workItem from="1492131862546" duration="287000" />
+      <workItem from="1492134083709" duration="1325000" />
+      <workItem from="1492177138290" duration="20000" />
+      <workItem from="1492190928944" duration="84000" />
+      <workItem from="1492277175047" duration="467000" />
+      <workItem from="1492287547817" duration="719000" />
+      <workItem from="1492288798202" duration="256000" />
+      <workItem from="1492291041125" duration="797000" />
+      <workItem from="1492298933494" duration="3309000" />
+      <workItem from="1492363379205" duration="209000" />
+      <workItem from="1492363659414" duration="195000" />
+      <workItem from="1492431099918" duration="150000" />
+      <workItem from="1492431631783" duration="296000" />
+      <workItem from="1492432291050" duration="1190000" />
+      <workItem from="1492447090958" duration="209000" />
+      <workItem from="1492507417419" duration="350000" />
+      <workItem from="1492511714550" duration="57000" />
+      <workItem from="1492512630335" duration="572000" />
+      <workItem from="1492515191645" duration="101000" />
+      <workItem from="1492515346965" duration="75000" />
+      <workItem from="1492516064768" duration="218000" />
+      <workItem from="1492874941702" duration="13398000" />
+      <workItem from="1493108297333" duration="4797000" />
+      <workItem from="1493146984479" duration="653000" />
+      <workItem from="1493401222180" duration="63000" />
+      <workItem from="1493483642107" duration="2262000" />
+      <workItem from="1493582788732" duration="179000" />
+      <workItem from="1493625982173" duration="946000" />
+      <workItem from="1493652116767" duration="1754000" />
+      <workItem from="1493661315833" duration="684000" />
+      <workItem from="1493655060301" duration="27000" />
+      <workItem from="1493655167140" duration="276000" />
+      <workItem from="1493656424477" duration="1486000" />
+      <workItem from="1493736612516" duration="6230000" />
+      <workItem from="1493748475176" duration="4319000" />
+      <workItem from="1493760092716" duration="1583000" />
+      <workItem from="1493808771891" duration="1461000" />
+      <workItem from="1493813398973" duration="416000" />
+      <workItem from="1493815439002" duration="7562000" />
+      <workItem from="1493829657590" duration="562000" />
+      <workItem from="1494056227081" duration="304000" />
+      <workItem from="1494712358274" duration="1000" />
+      <workItem from="1494936700919" duration="5333000" />
+      <workItem from="1495029443888" duration="4212000" />
+      <workItem from="1495043480398" duration="2510000" />
+      <workItem from="1495205539239" duration="160000" />
+      <workItem from="1495215181669" duration="488000" />
+      <workItem from="1495275838117" duration="502000" />
+      <workItem from="1495475356641" duration="170000" />
+      <workItem from="1496318803712" duration="744000" />
+      <workItem from="1496336933256" duration="584000" />
+      <workItem from="1496394561248" duration="3626000" />
+      <workItem from="1496408313559" duration="13538000" />
+      <workItem from="1496475620438" duration="183000" />
+      <workItem from="1496484199236" duration="6042000" />
+      <workItem from="1496515634923" duration="226000" />
+      <workItem from="1496509864328" duration="88000" />
+      <workItem from="1496510498933" duration="7207000" />
+      <workItem from="1496586899641" duration="9427000" />
+      <workItem from="1496647983178" duration="4389000" />
+      <workItem from="1496661129699" duration="1898000" />
+      <workItem from="1496666782376" duration="3931000" />
+      <workItem from="1496695770958" duration="881000" />
+      <workItem from="1496736571857" duration="598000" />
+      <workItem from="1496738956070" duration="620000" />
+      <workItem from="1496739765611" duration="13000" />
+      <workItem from="1496914450683" duration="659000" />
+      <workItem from="1496917835656" duration="7797000" />
+      <workItem from="1496946471503" duration="1523000" />
+      <workItem from="1496948755662" duration="1000" />
+      <workItem from="1496963752760" duration="468000" />
+      <workItem from="1496988319035" duration="2681000" />
+      <workItem from="1497003594703" duration="1046000" />
+      <workItem from="1497006231498" duration="6324000" />
+      <workItem from="1497032954690" duration="4292000" />
+      <workItem from="1497074276469" duration="1723000" />
+      <workItem from="1497081285297" duration="1183000" />
+      <workItem from="1497112563375" duration="141000" />
+      <workItem from="1497102065334" duration="22000" />
+      <workItem from="1497102147045" duration="791000" />
+      <workItem from="1497124940300" duration="1715000" />
+      <workItem from="1497161218871" duration="1209000" />
+      <workItem from="1497173134038" duration="742000" />
+      <workItem from="1497176587995" duration="5703000" />
+      <workItem from="1497186803516" duration="426000" />
+      <workItem from="1497201741380" duration="389000" />
+      <workItem from="1497212768540" duration="468000" />
+      <workItem from="1497247206321" duration="1525000" />
+      <workItem from="1497250722238" duration="1551000" />
+      <workItem from="1497257650362" duration="1285000" />
+      <workItem from="1497260818752" duration="2318000" />
+      <workItem from="1497278230357" duration="1616000" />
+      <workItem from="1497282065266" duration="7113000" />
+      <workItem from="1497294795078" duration="811000" />
+      <workItem from="1497337422412" duration="261000" />
+      <workItem from="1497377507742" duration="591000" />
+      <workItem from="1497454489100" duration="1187000" />
+      <workItem from="1497466851139" duration="4944000" />
+      <workItem from="1497511135642" duration="1384000" />
+      <workItem from="1497527489943" duration="151000" />
+      <workItem from="1497529128974" duration="152000" />
+      <workItem from="1497529617211" duration="2250000" />
+      <workItem from="1497538938585" duration="4779000" />
+      <workItem from="1497547912233" duration="441000" />
+      <workItem from="1497552357356" duration="2893000" />
+      <workItem from="1497604182891" duration="1997000" />
+      <workItem from="1497619801112" duration="698000" />
+      <workItem from="1497637678929" duration="1348000" />
+      <workItem from="1497639877685" duration="97000" />
+      <workItem from="1497649280530" duration="156000" />
+      <workItem from="1497687660255" duration="4915000" />
+      <workItem from="1497706852922" duration="1221000" />
+      <workItem from="1497813409296" duration="45000" />
+      <workItem from="1497856675124" duration="113000" />
+      <workItem from="1497857628487" duration="196000" />
+      <workItem from="1498038054781" duration="209000" />
+      <workItem from="1498044222193" duration="3300000" />
+      <workItem from="1498052530465" duration="6126000" />
+      <workItem from="1498062489798" duration="2169000" />
+      <workItem from="1498069011043" duration="3680000" />
+      <workItem from="1498075402093" duration="1110000" />
+      <workItem from="1498116663198" duration="224000" />
+      <workItem from="1498127146498" duration="149000" />
+      <workItem from="1498139698768" duration="57000" />
+      <workItem from="1498141354874" duration="46000" />
+      <workItem from="1498156356279" duration="269000" />
+      <workItem from="1498157519282" duration="2511000" />
+      <workItem from="1498162203958" duration="103000" />
+      <workItem from="1498195721742" duration="159000" />
+      <workItem from="1498198619669" duration="67000" />
+      <workItem from="1498222956405" duration="298000" />
+      <workItem from="1498422644017" duration="863000" />
+      <workItem from="1498519698249" duration="129000" />
+      <workItem from="1498509379840" duration="148000" />
+      <workItem from="1498546554121" duration="1611000" />
+      <workItem from="1498551985002" duration="271000" />
+      <workItem from="1498553419811" duration="225000" />
+      <workItem from="1498571366410" duration="29000" />
+      <workItem from="1498584869053" duration="2211000" />
+      <workItem from="1498593687473" duration="666000" />
+      <workItem from="1498595590482" duration="1674000" />
+      <workItem from="1498632077523" duration="3582000" />
+      <workItem from="1498638187787" duration="2312000" />
+      <workItem from="1498644674746" duration="1316000" />
+      <workItem from="1498651754266" duration="2050000" />
+      <workItem from="1498674360018" duration="176000" />
+      <workItem from="1498685587343" duration="1917000" />
+      <workItem from="1498722499497" duration="1483000" />
+      <workItem from="1498742082450" duration="404000" />
+      <workItem from="1498750639721" duration="3262000" />
+      <workItem from="1498757223451" duration="4020000" />
+      <workItem from="1498764956815" duration="774000" />
+      <workItem from="1498811077537" duration="687000" />
+      <workItem from="1498812310731" duration="3492000" />
+      <workItem from="1498895341263" duration="360000" />
+      <workItem from="1498920889062" duration="2873000" />
+      <workItem from="1500929291378" duration="1127000" />
+      <workItem from="1511091295480" duration="491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="319927000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1366" height="689" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27083334" sideWeight="0.5085122" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2580645" sideWeight="0.4914878" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23279649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34138486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32200646" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32471728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27083334" sideWeight="0.5085122" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34138486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32200646" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26009694" sideWeight="0.4914878" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23279649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32471728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/example10_io/ReadBytes.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Number.java</url>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="93" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/example10_io/CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/CompFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/ReadBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/SomeTestTwoGen.java" />
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/BlockLambdaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/NumericFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/LambdaDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/NumericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/LambdaArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/LambdaArgumentDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/VarCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/LambdaExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyParamValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/GenericFunctionlInterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/SomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyIOAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="67" lean-forward="true" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyIntPredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/IntPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/ArrayLambdaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyIntNumPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyIntNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MethodRefDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyClassArrayCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/ConstructorRefDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/UsePredicateInteraface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example14_lambda_expression/MyFuncString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="70" lean-forward="false" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example13_generalizations/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example13_generalizations/PairDEMO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example13_generalizations/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example13_generalizations/GenDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example13_generalizations/GenConsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example13_generalizations/FlightSched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/RWData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/ReShowFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/ReCopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/HomeWorkByteStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/HomeWorkCharsStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/FIRST.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/TEXT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/ShowFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/WriteDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example10_io/RandomAccessDemoInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example4_class_method_etc/Vehclie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Shild_Example</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

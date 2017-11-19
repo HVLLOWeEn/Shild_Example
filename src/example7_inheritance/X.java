@@ -1,5 +1,6 @@
 package example7_inheritance;
 
+
 /**
  * Created by hvllowe3n on 4/12/17.
  */

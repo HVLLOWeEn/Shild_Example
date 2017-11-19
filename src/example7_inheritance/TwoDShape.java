@@ -1,8 +1,12 @@
 package example7_inheritance;
 
 
+import java.lang.*;
+import java.lang.Override;
+
 // Простая иерархия классов
-class TwoDShape {
+// Абстрактный класс (не может быть объектов)
+abstract class TwoDShape {
     private double width;
     private double height;
     private String name;
@@ -45,16 +49,13 @@ class TwoDShape {
         System.out.println("Ширина и высота: "
                 + width + " и " + height);
     }
-    double area(){
-        System.out.println("Метод area() должен быть" +
-                " переопределен");
-        return 0.0;
-    }
+    // Абстрактный метод area();
+    abstract double area();
 }
 
 //Подкласс для представления треугольника
-//производный от класса TwoDShape
-class Triangle extends TwoDShape{
+//производный от класса TwoDShapeAbstract
+class Triangle extends TwoDShape {
     private String style;
 
     Triangle(String s, double w, double h){      //конструктор
@@ -70,14 +71,12 @@ class Triangle extends TwoDShape{
         style = "Прозрачный";
     }
     Triangle(Triangle ob){
-        //передача обьекта конструктору TwoDShape (суперклассу)
+        //передача обьекта конструктору TwoDShapeAbstract (суперклассу)
         super(ob);
         style = ob.style;
     }
     //переопределение
-    double area(){
-        return getWidth() * getHeight() / 2;
-    }
+    double area(){ return getWidth() * getHeight() / 2; }
     public void setStyle(String style){ this.style = style; }
     void showStyle(){
         System.out.println("Трехугольник " + style);
@@ -96,7 +95,7 @@ class ColorTriangle extends Triangle{ //Многоуровневая иерар�
     }
 }
 
-class Square extends TwoDShape{
+class Square extends TwoDShape {
     private String style;
     Square(String s, double w, double h){   //конструктор
         super(w, h, "Квадрат");
@@ -146,5 +145,40 @@ class Rectangle extends TwoDShape{
     //переопределение
     double area(){
             return getWidth() * getHeight();
+    }
+}
+class Ellipse extends TwoDShape{
+    private String style;
+    private final double pi = 3.14;
+    Ellipse(){
+        super();
+    }
+    Ellipse(String style, double w, double h){
+        super(w, h, "Эллипс");
+        this.style = style;
+    }
+    Ellipse(double x){
+        super(x, "Эллипс");
+        this.style = style;
+    }
+    public void showStyle(){
+        System.out.println("Эллипс" + style);
+    }
+    double area(){
+        return (getWidth() * getHeight() * pi);
+    }
+}
+class Circle extends TwoDShape{
+    private final double pi = 3.14;
+    String style;
+
+    Circle(double x){
+        super(x, "Круг");
+        this.style = style;
+    }
+
+    @Override
+    double area() {
+        return pi * (getWidth() * getHeight());
     }
 }

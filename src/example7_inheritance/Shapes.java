@@ -52,6 +52,5 @@ class Shapes {
         //System.out.println("Сходимость: " + ob3.isSquare());
         System.out.println("Area ... ob3: " + ob3.area());
 
-
     }
 }

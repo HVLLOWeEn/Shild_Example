@@ -1,9 +1,12 @@
 package example7_inheritance;
 
+import java.lang.*;
+import java.lang.Override;
+
 /**
  * Created by HVLLO on 25.02.2017.
  */
-class Vehicle {
+class Vehicle implements IVehicle{
 
     private int passengers; // Кол-во пассажиров
     private int fuelcap;    // Емкость топливного бака
@@ -17,12 +20,12 @@ class Vehicle {
     }
 
     // Отобразить дальность поездки транспортрого средства
-    int range(){
+    public int range(){
         //System.out.println("Дальность - " + (fuelcap * mpg) + " миль.");
         return (fuelcap + mpg);
     }
 
-    double fuelneded(int miles){
+    public double fuelneded(int miles){
         return (double) miles / mpg;
     }
 

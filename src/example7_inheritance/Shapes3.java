@@ -8,7 +8,7 @@ public class Shapes3 {
         Triangle ob =
                 new Triangle("Контурный", 8.0, 12.0);
 
-        //TwoDShape ob3 = new Triangle();
+        //TwoDShapeAbstract ob3 = new Triangle();
         //Ссылочная переменная суперкласса
         //может ссылатся на обьект подкласса
 
